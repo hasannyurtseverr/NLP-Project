@@ -7,7 +7,7 @@ Teknofest NLP
 ### Proje Ekibimiz
 ```
 1. Hasan Yurtsever
-2. Merve Yorulmaz
+2. [Merve Yorulmaz](https://github.com/yrlmzmerve)
 3. Eren Çağlar
 4. Saygın Yıldız
 ```
